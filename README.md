@@ -4,7 +4,7 @@ Hi 👋, I'm Ina
 I'm a recent graduate of Le Wagon's full-stack web development Bootcamp.
 * 🌍  I'm based in London
 * ✉️  You can contact me at [inabirska@googlemail.com](mailto:inabirska@googlemail.com)
-* 🚀  Check out my project https://capybaraapp-asulaaman.herokuapp.com/ 
+* 🚀  Check out my App project https://capybaraapp-asulaaman.herokuapp.com/ 
 * 🧠  I'm currently learning React
 
 ### Skills:
